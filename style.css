@@ -1,0 +1,19 @@
+@import url("http://code.cdn.mozilla.net/fonts/fira.css");
+
+body {  
+    font-family: Fira Sans;
+    margin: 10px auto;
+    max-width: 1024px;
+}
+
+nav ul {
+    padding-left: 0px;
+}
+
+nav li {
+    margin: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+    list-style-type: none;
+    display: inline;
+}
