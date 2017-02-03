@@ -2,8 +2,6 @@ title: TALIAS project
 
 email: florian.boudin@univ-nantes.fr
 
-description: > # this means to ignore newlines
-               Home page of the TALIAS project : Natural Language Processing for
-               indexing scientific articles.
+description: Natural Language Processing for indexing scientific articles.
 
 theme: jekyll-theme-cayman
